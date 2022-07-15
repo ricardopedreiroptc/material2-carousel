@@ -1,33 +1,20 @@
 # Material Carousel
-[![Build Status](https://travis-ci.org/gabrielbusarello/material2-carousel.svg?branch=master)](https://travis-ci.org/gabrielbusarello/material2-carousel)
-[![npm version](https://badge.fury.io/js/%40ngbmodule%2Fmaterial-carousel.svg)](https://www.npmjs.com/package/@thouet/material-carousel)
-[![Live demo](https://img.shields.io/badge/demo-blue.svg)](https://thouet-sigma.github.io/material2-carousel/)
 
-[![Material2 Carousel](./projects/demo/src/assets/Biglogo.png)](https://github.com/thouet-sigma/material2-carousel)
+[![Material2 Carousel](./projects/demo/src/assets/Biglogo.png)](https://github.com/nunomeirelesjumia/material2-carousel)
 
 ## EXTRA NOTICE
-
-This version has been further forked to upgrade it to use Angular 13.
-
-Originally from : https://github.com/kdeenanauth/material2-carousel
-
-Then from : https://github.com/adamkasper/material2-carousel
-
-## NOTICE
-
+This version has been further forked to upgrade it to use Angular 14.
 
 ## About
 This package is a carousel component for Angular using Material Design.
 
-Until `v1` is reached, breaking changes may be introduced.
-
 ### Installing
-`npm install --save @thouet/material-carousel`
+`npm install --save @nunomeirelesjumia/material-carousel`
 
 ### Importing
 ```typescript
 //...
-import { MatCarouselModule } from '@thouet/material-carousel';
+import { MatCarouselModule } from '@nunomeirelesjumia/material-carousel';
 
 @NgModule({
   // ...
@@ -43,7 +30,7 @@ export class AppModule {}
 ## Usage
 ### `MatCarouselComponent`
 ```typescript
-import { MatCarousel, MatCarouselComponent } from '@thouet/material-carousel';
+import { MatCarousel, MatCarouselComponent } from '@nunomeirelesjumia/material-carousel';
 ```
 ```html
 <mat-carousel>
@@ -99,7 +86,7 @@ Play around with the [demo](https://gabrielbusarello.github.io/material2-carouse
 
 ### `MatCarouselSlideComponent`
 ```typescript
-import { MatCarouselSlide, MatCarouselSlideComponent } from '@thouet/material-carousel';
+import { MatCarouselSlide, MatCarouselSlideComponent } from '@nunomeirelesjumia/material-carousel';
 ```
 ```html
 <mat-carousel>
@@ -118,8 +105,8 @@ import { MatCarouselSlide, MatCarouselSlideComponent } from '@thouet/material-ca
 
 ## Contributing
 ### How to help
-- For bugs and opinions, please [open an issue](https://github.com/thouet-sigma/material2-carousel/issues/new)
-- For pushing changes, please [open a pull request](https://github.com/thouet-sigma/material2-carousel/compare)
+- For bugs and opinions, please [open an issue](https://github.com/nunomeirelesjumia/material2-carousel/issues/new)
+- For pushing changes, please [open a pull request](https://github.com/nunomeirelesjumia/material2-carousel/compare)
 
 ### How to develop and test
 #### Testing

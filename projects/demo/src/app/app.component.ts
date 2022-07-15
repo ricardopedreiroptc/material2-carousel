@@ -2,7 +2,7 @@ import {OverlayContainer} from "@angular/cdk/overlay";
 import {Component, ElementRef, QueryList, ViewChildren} from "@angular/core";
 import {ThemePalette} from "@angular/material/core";
 import {MatSnackBar} from "@angular/material/snack-bar";
-import {MatCarouselSlideComponent, Orientation} from "@thouet/material-carousel";
+import {MatCarouselSlideComponent, Orientation} from "@nunomeirelesjumia/material-carousel";
 
 @Component({
     selector: "app-root",
@@ -11,7 +11,7 @@ import {MatCarouselSlideComponent, Orientation} from "@thouet/material-carousel"
 })
 export class AppComponent {
   private static readonly INSTALL_TEXT =
-    "npm install @thouet/material-carousel";
+    "npm install @nunomeirelesjumia/material-carousel";
 
   public slidesList = new Array<never>(5);
   public showContent = false;
