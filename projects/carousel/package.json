@@ -1,7 +1,7 @@
 {
   "name": "@nunomeirelesjumia/material-carousel",
   "description": "Fork of @thouet/material-carousel for Angular 14. Carousel component for Angular using Material Design.",
-  "version": "14.1.1",
+  "version": "15.0.0",
   "repository": {
     "type": "git",
     "url": "https://github.com/nunomeirelesjumia/material2-carousel.git"
