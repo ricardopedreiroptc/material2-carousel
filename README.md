@@ -3,7 +3,7 @@
 [![Material2 Carousel](./projects/demo/src/assets/Biglogo.png)](https://github.com/nunomeirelesjumia/material2-carousel)
 
 ## EXTRA NOTICE
-This version has been further forked to upgrade it to use Angular 14.
+This version has been further forked to upgrade it to use Angular 17.
 
 ## About
 This package is a carousel component for Angular using Material Design.
