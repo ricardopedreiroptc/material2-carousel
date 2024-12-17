@@ -36,7 +36,8 @@ enum Direction {
 @Component({
     selector: "mat-carousel",
     templateUrl: "./carousel.component.html",
-    styleUrls: ["./carousel.component.scss"]
+    styleUrls: ["./carousel.component.scss"],
+    standalone: false
 })
 export class MatCarouselComponent
 implements AfterContentInit, AfterViewInit, MatCarousel, OnDestroy {

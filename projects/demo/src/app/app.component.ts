@@ -7,7 +7,8 @@ import {MatCarouselSlideComponent, Orientation} from "@ricardopedreiroptc/materi
 @Component({
     selector: "app-root",
     templateUrl: "./app.component.html",
-    styleUrls: ["./app.component.scss"]
+    styleUrls: ["./app.component.scss"],
+    standalone: false
 })
 export class AppComponent {
   private static readonly INSTALL_TEXT =

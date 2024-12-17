@@ -14,7 +14,8 @@ import { MatCarouselModule } from "./carousel.module";
     <mat-carousel [autoplay]="false">
       <mat-carousel-slide *ngFor="let slide of slides"></mat-carousel-slide>
     </mat-carousel>
-  `
+  `,
+    standalone: false
 })
 class MatCarouselTestWrapperComponent {
   public slides = new Array<never>(5);
