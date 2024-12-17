@@ -1,15 +1,15 @@
 {
-  "name": "@nunomeirelesjumia/material-carousel",
+  "name": "@ricardopedreiroptc/material-carousel",
   "description": "Fork of @thouet/material-carousel for Angular 14. Carousel component for Angular using Material Design.",
   "version": "17.0.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/nunomeirelesjumia/material2-carousel.git"
+    "url": "https://github.com/ricardopedreiroptc/material2-carousel.git"
   },
   "author": "Nuno Meireles <nuno.meireles@jumia.com>",
   "license": "MIT",
-  "homepage": "https://github.com/nunomeirelesjumia/material2-carousel",
-  "bugs": "https://github.com/nunomeirelesjumia/material2-carousel/issues",
+  "homepage": "https://github.com/ricardopedreiroptc/material2-carousel",
+  "bugs": "https://github.com/ricardopedreiroptc/material2-carousel/issues",
   "keywords": [
     "angular",
     "material",
@@ -19,7 +19,7 @@
   ],
   "publishConfig": {
     "access": "public",
-    "@nunomeirelesjumia:registry":"https://registry.npmjs.org"
+    "@ricardopedreiroptc:registry":"https://registry.npmjs.org"
   },
   "peerDependencies": {
     "@angular/material": "~17.3.0",

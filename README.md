@@ -1,20 +1,20 @@
 # Material Carousel
 
-[![Material2 Carousel](./projects/demo/src/assets/Biglogo.png)](https://github.com/nunomeirelesjumia/material2-carousel)
+[![Material2 Carousel](./projects/demo/src/assets/Biglogo.png)](https://github.com/ricardopedreiroptc/material2-carousel)
 
 ## EXTRA NOTICE
-This version has been further forked to upgrade it to use Angular 17.
+This version has been further forked to upgrade it to use Angular 19.
 
 ## About
 This package is a carousel component for Angular using Material Design.
 
 ### Installing
-`npm install --save @nunomeirelesjumia/material-carousel`
+`npm install --save @ricardopedreiroptc/material-carousel`
 
 ### Importing
 ```typescript
 //...
-import { MatCarouselModule } from '@nunomeirelesjumia/material-carousel';
+import { MatCarouselModule } from '@ricardopedreiroptc/material-carousel';
 
 @NgModule({
   // ...
@@ -30,7 +30,7 @@ export class AppModule {}
 ## Usage
 ### `MatCarouselComponent`
 ```typescript
-import { MatCarousel, MatCarouselComponent } from '@nunomeirelesjumia/material-carousel';
+import { MatCarousel, MatCarouselComponent } from '@ricardopedreiroptc/material-carousel';
 ```
 ```html
 <mat-carousel>
@@ -86,7 +86,7 @@ Play around with the [demo](https://gabrielbusarello.github.io/material2-carouse
 
 ### `MatCarouselSlideComponent`
 ```typescript
-import { MatCarouselSlide, MatCarouselSlideComponent } from '@nunomeirelesjumia/material-carousel';
+import { MatCarouselSlide, MatCarouselSlideComponent } from '@ricardopedreiroptc/material-carousel';
 ```
 ```html
 <mat-carousel>
@@ -105,8 +105,8 @@ import { MatCarouselSlide, MatCarouselSlideComponent } from '@nunomeirelesjumia/
 
 ## Contributing
 ### How to help
-- For bugs and opinions, please [open an issue](https://github.com/nunomeirelesjumia/material2-carousel/issues/new)
-- For pushing changes, please [open a pull request](https://github.com/nunomeirelesjumia/material2-carousel/compare)
+- For bugs and opinions, please [open an issue](https://github.com/ricardopedreiroptc/material2-carousel/issues/new)
+- For pushing changes, please [open a pull request](https://github.com/ricardopedreiroptc/material2-carousel/compare)
 
 ### How to develop and test
 #### Testing
