@@ -9,12 +9,12 @@ This version has been further forked to upgrade it to use Angular 19.
 This package is a carousel component for Angular using Material Design.
 
 ### Installing
-`npm install --save @ricardopedreiroptc/material-carousel`
+`npm install --save @ricardopedreiro/material-carousel`
 
 ### Importing
 ```typescript
 //...
-import { MatCarouselModule } from '@ricardopedreiroptc/material-carousel';
+import { MatCarouselModule } from '@ricardopedreiro/material-carousel';
 
 @NgModule({
   // ...
@@ -30,7 +30,7 @@ export class AppModule {}
 ## Usage
 ### `MatCarouselComponent`
 ```typescript
-import { MatCarousel, MatCarouselComponent } from '@ricardopedreiroptc/material-carousel';
+import { MatCarousel, MatCarouselComponent } from '@ricardopedreiro/material-carousel';
 ```
 ```html
 <mat-carousel>
@@ -86,7 +86,7 @@ Play around with the [demo](https://gabrielbusarello.github.io/material2-carouse
 
 ### `MatCarouselSlideComponent`
 ```typescript
-import { MatCarouselSlide, MatCarouselSlideComponent } from '@ricardopedreiroptc/material-carousel';
+import { MatCarouselSlide, MatCarouselSlideComponent } from '@ricardopedreiro/material-carousel';
 ```
 ```html
 <mat-carousel>

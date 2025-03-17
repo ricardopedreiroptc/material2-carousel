@@ -15,8 +15,8 @@
     "typeRoots": ["node_modules/@types"],
     "lib": ["es2018", "dom"],
     "paths": {
-      "@ricardopedreiroptc/material-carousel": ["dist/carousel"],
-      "@ricardopedreiroptc/material-carousel/*": ["dist/carousel/*"]
+      "@ricardopedreiro/material-carousel": ["dist/carousel"],
+      "@ricardopedreiro/material-carousel/*": ["dist/carousel/*"]
     },
     "plugins": [
       { "name": "@angular/language-service" }
